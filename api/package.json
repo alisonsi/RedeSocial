@@ -1,0 +1,19 @@
+{
+  "name": "projeto_node",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Erro: test nao especificado\" && exit 1"
+  },
+  "author": "alison",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.4"
+  }
+}
