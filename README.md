@@ -1,6 +1,7 @@
-RedeSocial - 
-AngularJS – Framework MVC para JavaScript
-Ionic - Framework para desenvolvimento de aplicações para dispositivos móveis 
+RedeSocial  
+
+- AngularJS - Framework MVC para JavaScript
+- Ionic - Framework para desenvolvimento de aplicações para dispositivos móveis 
 
 API 
 
