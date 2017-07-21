@@ -1,13 +1,13 @@
 RedeSocial  
 
-- AngularJS - Framework MVC para JavaScript
-- Ionic - Framework para desenvolvimento de aplicações para dispositivos móveis 
+- Angular 2 - Framework MVC para JavaScript
+- Ionic - Framework para desenvolvimento de aplicaÃ§Ãµes para dispositivos mÃ³veis 
 
 API 
 
-- MongoDB – Banco de dados orientado a documentos
-- Mongoose - Biblioteca do Nodejs que proporciona uma solução baseada em esquemas para modelar os dados da sua aplicação
-- Node.js – Ambiente de execução JavaScript
-- Express – Framework de desenvolvimento web para Node
+- MongoDB â€“ Banco de dados orientado a documentos
+- Mongoose - Biblioteca do Nodejs que proporciona uma soluÃ§Ã£o baseada em esquemas para modelar os dados da sua aplicaÃ§Ã£o
+- Node.js â€“ Ambiente de execuÃ§Ã£o JavaScript
+- Express â€“ Framework de desenvolvimento web para Node
 
 
